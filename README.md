@@ -1,0 +1,1 @@
+'This git account is all about code from alx program, made by learning the hard way.
